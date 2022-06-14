@@ -1,0 +1,12 @@
+body{
+    background-image: url(../img/pozadi.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+html {
+    font-family: 'Oswald', sans-serif ;
+}
+
+.mezera{
+    height: 5px;
+}
