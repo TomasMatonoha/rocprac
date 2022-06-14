@@ -1,0 +1,22 @@
+.container {
+    margin: auto;
+    width: 85%;
+    border: 3px solid black;
+    padding: 10px;
+    background-color:rgba(0, 0, 0, 0.75);
+    color: aliceblue;
+}
+
+.mezera{
+    height: 5px;
+}
+
+body{
+    background-image: url(../img/pozadi.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+html {
+    font-family: 'Oswald', sans-serif ;
+}
